@@ -14,6 +14,6 @@ Feito no scratch😺, o jogo tem seu design todo em pixel art👾 e contendo alg
 🏆🥈 Foi eleito o segundo melhor jogo da turma e uma das Melhores Artes Originais - [site da premiação](https://eic.cefet-rj.br/~jsantos/classes/introducao-a-programacao-2020/?lang=pb).
 
 ## 💻 Desenvolvedores:
-- Mauro Campos;<a href="https://github.com/Ericcastell"><img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/zughy09" width="50"></a>
-- Victor Kauã Martins; <a href="https://github.com/Ericcastell"><img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/victor-kaua" width="50"></a>
+- Mauro Campos;<a href="https://github.com/zughy09"><img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/zughy09" width="50"></a>
+- Victor Kauã Martins; <a href="https://github.com/victor-kaua"><img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/victor-kaua" width="50"></a>
 - Dora Tezulino.
