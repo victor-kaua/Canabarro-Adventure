@@ -1,13 +1,13 @@
 # Canabarro Adventure 🏃🏿‍♀️
-Projeto feito para disciplina de Introdução a programação do CEFET-RJ no ano letivo de 2020. 
+Projeto feito para disciplina de Introdução a programação do CEFET-RJ no ano letivo de 2020./Project made for the discipline Introduction to Programming at CEFET-RJ for the 2020 school year.
 
-## Sinopse 📖
+## Sinopse/Synopsis 📖
 
-Uma aventura emocionante de Aurora,uma aluna do CEFET/RJ. No qual,em um belo dia,começa uma pandemia, e ela deve se aventurar pela canabarro, onde seu objetivo principal é driblar carros, água poluida, e até o COVID! Podendo se vacinar e ficando I M O R T A L durante algum tempo, e até usando cartas para derrotar os inimigos! Ajude Aurora,chegue o mais longe possível com ela!!
+Uma aventura emocionante de Aurora, uma aluna do CEFET/RJ. No qual, em um belo dia, começa uma pandemia, e ela deve se aventurar pela Canabarro, onde seu objetivo principal é driblar carros, água poluída, e até a COVID! Podendo se vacinar e ficando I M O R T A L durante algum tempo, e até usando cartas para derrotar os inimigos! Ajude Aurora, chegue o mais longe possível com ela! / An exciting adventure of Aurora, a student from CEFET/RJ. In which, one fine day, a pandemic starts, and she must venture through Canabarro, where her main goal is to dodge cars, polluted water, and even the COVID! You can get vaccinated and stay I M O R T A L for some time, and even using cards to defeat the enemies! Help Aurora, get as far as possible with her!
 
->  **Link para o [jogo](https://scratch.mit.edu/projects/537504336/) no Scratch**
+>  **Link para o [jogo](https://scratch.mit.edu/projects/537504336/) no Scratch** / **Link to the [game](https://scratch.mit.edu/projects/537504336/) in Scratch**
 
-## 💻 Sobre o projeto
+## 💻 Sobre o projeto/About the project
   
 Canabarro Adventure, tem o seu nome em homenagem a Rua General Canabarro,no qual fica o CEFET. O jogo foi inspirado em diversos jogos Endless Runner,contendo cartas capazes de ajudar o jogador a combater os inimigos,que podem ser recarregadas depois de uma certa quantidade depontos conquistados. E contendo inimigos como: A COVID-19 devido a pandemia, Carros que passam no local e a "Água Poluída" devido a enorme facilidade em ter alagamentos na Rua.<br>
 Feito no scratch😺, o jogo tem seu design todo em pixel art👾 e contendo alguns 'easter eggs'. <br>
