@@ -1,3 +1,5 @@
+<img src="image/aurora.png" width="90"  align="right">
+
 # Canabarro Adventure 🏃🏿‍♀️
 Projeto feito para disciplina de Introdução a programação do CEFET-RJ no ano letivo de 2020.
 
